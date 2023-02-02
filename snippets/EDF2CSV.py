@@ -44,5 +44,5 @@ def convert_edf_to_txt(path):
     print("done")
 
 if __name__ == '__main__':
-    path="C:/Users/swaru/OneDrive/Desktop/15-51-06.EDF-639DB8BBECDFA.EDF"
+    path="ADD_PATH_HERE" #Add the edf file path here to convert into csv
     convert_edf_to_txt(path)
