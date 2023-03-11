@@ -1,2 +1,2 @@
 # ECG_Classifier
-Classifying ecg signal to various types
+Classifying ecg signal to various types(Normal, Artifact, Pause, Sinus tachycardia, Sinus bradycardia)
